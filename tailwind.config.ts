@@ -8,9 +8,17 @@ export default {
   ],
   theme: {
     extend: {
-      colors: {
+      backgroundImage: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+      },
+      colors: {
+        lamaSky: "#C3EBFA",
+        lamaSkyLight: "#EDF9FD",
+        lamaPurple: "#CFCEFF",
+        lamaPurpleLight: "#F1F0FF",
+        lamaYellow: "#FAE27C",
+        lamaYellowLight: "#FEFCE8",
       },
     },
   },

@@ -24,12 +24,11 @@ export default function DashboardLayout({
         </Link>
         <Menu />
       </div>
-      {/* <div className="w-[30%] md:w-[8%] md:bg-yellow-300 lg:w-[16%] xl:w-[14%] bg-red-200">left</div> */}
       {/* RIGHT */}
       <div className="w-[86%] md:w-[92%] lg:w-[84%] xl:w-[86%] bg[#F7F8FA] overflow-scroll">
         <Navbar />
+        {children}
       </div>
-      {/* <div className="w-[70%] md:w-[92%] lg:w-[84%] xl:w-[86%] bg-blue-200">right</div> */}
     </div>
   );
 }
