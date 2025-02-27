@@ -252,7 +252,7 @@ export const parentsData = [
   {
     id: 1,
     name: "John Doe",
-    students: ["Sarah Brewer"],
+    students: ["Sarah","Brewer"],
     email: "john@doe.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
@@ -260,7 +260,7 @@ export const parentsData = [
   {
     id: 2,
     name: "Jane Doe",
-    students: ["Cecilia Bradley"],
+    students: ["Cecilia"," Bradley"],
     email: "jane@doe.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
@@ -268,7 +268,7 @@ export const parentsData = [
   {
     id: 3,
     name: "Mike Geller",
-    students: ["Fanny Caldwell"],
+    students: ["Fanny"," Caldwell"],
     email: "mike@geller.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
@@ -276,7 +276,7 @@ export const parentsData = [
   {
     id: 4,
     name: "Jay French",
-    students: ["Mollie Fitzgerald", "Ian Bryant"],
+    students: ["Mollie", "Ian Bryant"],
     email: "mike@geller.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
@@ -284,7 +284,7 @@ export const parentsData = [
   {
     id: 5,
     name: "Jane Smith",
-    students: ["Mable Harvey"],
+    students: ["Mable"," Harvey"],
     email: "mike@geller.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
@@ -292,7 +292,7 @@ export const parentsData = [
   {
     id: 6,
     name: "Anna Santiago",
-    students: ["Joel Lambert"],
+    students: ["Joel ","Lambert"],
     email: "mike@geller.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
@@ -300,7 +300,7 @@ export const parentsData = [
   {
     id: 7,
     name: "Allen Black",
-    students: ["Carrie Tucker", "Lilly Underwood"],
+    students: ["Carrie", "Underwood"],
     email: "mike@geller.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
@@ -316,7 +316,7 @@ export const parentsData = [
   {
     id: 9,
     name: "Derek Briggs",
-    students: ["Susan Webster", "Maude Stone"],
+    students: ["Webster", "Maude"],
     email: "mike@geller.com",
     phone: "1234567890",
     address: "123 Main St, Anytown, USA",
